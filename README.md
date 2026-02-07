@@ -1,6 +1,7 @@
 # Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director-Sales-Promotions-Analytics-FMCG-
 🔗 Live Dashboard
 👉 View Power BI Dashboard:https://app.powerbi.com/view?r=eyJrIjoiMDFmZGI2MjgtOTk2OS00ZDI0LTgwMjItMjA4YmE4ZjE3NzI1IiwidCI6IjYzMGE3YWY1LTVmYWUtNDVkZC04MDVlLTdjN2IyNDk4YWZjNSJ9
+
 Analyse Promotions and Provide Tangible Insights to Sales Director
 🔍 Project Overview
 
